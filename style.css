@@ -1,0 +1,57 @@
+/* img{
+    width: 250px;
+    height: 250px;
+    
+} */
+
+/*Alingning images  */
+
+/* img{
+    margin: 200px;
+} */
+
+ /* img{
+    float: right;
+ } */
+
+  /* centring img */
+
+  /* img{ 
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+
+  } */
+
+  /* background img */
+
+  /* body{
+    background-image:url(./images/my\ jan.jpg) ;
+  } */
+
+  /*Gradients  */
+/* linear dradient */
+
+/* #grad1 {
+    height: 200px;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+  } */
+
+  /* radial gradient */
+  /* #grad1 {
+    height: 150px;
+    width: 200px;
+    background-color: red;
+    background-image: radial-gradient(red, yellow, green);
+  } */
+
+  /* conic gradient */
+
+  /* #grad1 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    background-image: conic-gradient(red, yellow, green);
+  } */
